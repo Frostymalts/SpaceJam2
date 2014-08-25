@@ -1,0 +1,35 @@
+
+h1 {
+	color: #C3DBDA;
+	font-family: 'Verdana', sans-serif;
+	padding: auto;
+	text-align: center;
+}
+
+a {
+	font-family: 'Verdana', sans-serif;
+	color: #C3DBDA;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    border: 0;
+    padding-top: 3%;
+    padding-bottom: 30px;
+}
+
+img {
+	width: 100%;
+}
+
+.jumbotron p{
+	color: white;
+}
+
+p {
+	width: 75%;
+	text-align: justify;
+	margin-left: auto;
+	margin-right: auto;
+}
