@@ -60,3 +60,10 @@ p {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+#msg {
+	color: white;
+	margin-top: 10px;
+	margin-left: 30%;
+	margin-right: auto;
+}
