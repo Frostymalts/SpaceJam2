@@ -1,3 +1,6 @@
+body {
+	overflow: hidden;
+}
 
 h1 {
 	color: #C3DBDA;
@@ -11,11 +14,24 @@ a {
 	color: #C3DBDA;
 }
 
+#deets {
+	margin-left: 10%;
+}
+
+#deets ul {
+	list-style: none;
+	color: white;
+	font-size: 18px;
+	font-weight: 200;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height: 1.8;
+}
+
 iframe {
     display: block;
     margin: 0 auto;
     border: 0;
-    padding-top: 3%;
+    margin-top: 25px;
     padding-bottom: 30px;
 }
 
