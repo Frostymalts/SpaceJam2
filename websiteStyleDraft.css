@@ -14,6 +14,14 @@ a {
 	color: #C3DBDA;
 }
 
+#btn {
+	display: block;
+    margin: 0 auto;
+    border: 0;
+    margin-top: 25px;
+    width: 25%;
+}
+
 #deets {
 	margin-left: 10%;
 }
